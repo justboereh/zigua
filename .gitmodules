@@ -1,0 +1,6 @@
+[submodule "src/libs/zig-string"]
+	path = src/libs/zig-string
+	url = https://github.com/JakubSzark/zig-string.git
+[submodule "src/libs/zig-cli"]
+	path = src/libs/zig-cli
+	url = https://github.com/sam701/zig-cli.git
