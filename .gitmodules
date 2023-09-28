@@ -4,3 +4,6 @@
 [submodule "src/libs/zig-cli"]
 	path = src/libs/zig-cli
 	url = https://github.com/sam701/zig-cli.git
+[submodule "src/libs/zig-clap"]
+	path = src/libs/zig-clap
+	url = https://github.com/Hejsil/zig-clap.git
